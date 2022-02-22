@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace zoparga\WorldCountry\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class WorldCountryCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'worldcountries';
 
     public $description = 'My command';
 
